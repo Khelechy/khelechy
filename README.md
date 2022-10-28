@@ -7,8 +7,8 @@ I used to be Blackhat
 ### I am Kelechi 👋 
 ##### C#.Net || Golang || Elixir || Java
 
-.. / -... ..- .. .-.. -.. / -.. .. ... .-. ..- .--. - .. ...- . / ... --- .-.. ..- - .. --- -. ...
-##### Yes it is morse code!
+.. / -... ..- .. .-.. -.. / -.. .. ... .-. ..- .--. - .. ...- . / ... --- .-.. ..- - .. --- -. ... Yes it is morse code!
+
 
 ##### I'm a Software Engineer ...
 ##### I build stuff that work :)
@@ -18,10 +18,7 @@ I used to be Blackhat
 - 👯 I’m looking to collaborate on anything tech.
 - 😄 Pronouns: He/Him
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khelechy&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <br>
- <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khelechy&layout=compact&card_width=445)](https://github.com/khelechy/github-readme-stats)
+
 
 ☎️ Connect with me on:<br>
 * <a href="https://www.linkedin.com/in/kelechionyekwere/">Linkedin</a><br>
