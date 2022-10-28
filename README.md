@@ -1,21 +1,29 @@
+<!-- 
 ### Hi there 👋
+I used to be Blackhat
+ -->
+ 
+### Hi there 👋
+### I am Kelechi 👋 
+##### C#.Net || Golang || Elixir || Java
 
 .. / -... ..- .. .-.. -.. / -.. .. ... .-. ..- .--. - .. ...- . / ... --- .-.. ..- - .. --- -. ...
+##### Yes it is morse code!
 
 ##### I'm a Software Engineer ...
-##### I'm currently working on anything that solve problems ...
-##### I'm currently learning anything technology ...
-<!--
-**Khelechy/khelechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I build stuff that work :)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on payment infrastructures leveraging on DLTs, Observability & monitoring tools and Dev tools.
+- 🌱 I’m currently learning Distributed Systems, Blockchain, Elixir & Rust.
+- 👯 I’m looking to collaborate on anything tech.
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khelechy&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <br>
+ <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khelechy&layout=compact&card_width=445)](https://github.com/khelechy/github-readme-stats)
+
+☎️ Connect with me on:<br>
+* <a href="https://www.linkedin.com/in/kelechionyekwere/">Linkedin</a><br>
+* <a href="https://twitter.com/khelechy1337">Twitter</a> <br>
+* <a href="https://medium.com/@khelechy">Medium</a><br>
