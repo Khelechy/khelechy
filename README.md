@@ -5,7 +5,7 @@ I used to be Blackhat
  
 ### Hi there 👋
 ### I am Kelechi 👋 
-##### C#.Net || Golang || Elixir || Java
+##### C#.Net || Golang || Java || Elixir
 
 .. / -... ..- .. .-.. -.. / -.. .. ... .-. ..- .--. - .. ...- . / ... --- .-.. ..- - .. --- -. ... Yes it is morse code!
 
@@ -14,6 +14,7 @@ I used to be Blackhat
 ##### I build stuff that work :)
 
 - 🔭 I’m currently working on payment infrastructures leveraging on DLTs, Observability & monitoring tools and Dev tools.
+- 🔭 HyperLedger Fabric, Besu, Aeries
 - 🌱 I’m currently learning Distributed Systems, Blockchain, Elixir & Rust.
 - 👯 I’m looking to collaborate on anything tech.
 - 😄 Pronouns: He/Him
