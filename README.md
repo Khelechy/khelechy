@@ -5,7 +5,7 @@ I used to be Blackhat
  
 ### Hi there 👋
 ### I am Kelechi 👋 
-##### C#.Net || Golang || Java || Elixir
+##### C#.Net || Golang || Java || Ruby
 
 .. / -... ..- .. .-.. -.. / -.. .. ... .-. ..- .--. - .. ...- . / ... --- .-.. ..- - .. --- -. ... Yes it is morse code!
 
